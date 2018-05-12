@@ -1,0 +1,34 @@
+_repo: The-Mysterious-Sketch_36013
+_version: 0.1.0
+alternative_title: L'esquisse mystérieuse. English
+contributor:
+  translator:
+    agent_name: Wooff, Michael
+    alias: Wooff, Michael John
+    gutenberg_agent_id: '41215'
+    url: http://www.gutenberg.org/2009/agents/41215
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Erckmann-Chatrian
+    gutenberg_agent_id: '2680'
+    url: http://www.gutenberg.org/2009/agents/2680
+    wikipedia: http://en.wikipedia.org/wiki/Erckmann-Chatrian
+description: ''
+gutenberg_issued: '2011-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36013'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Paranormal fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Artists -- Fiction'
+- !lcc 'PQ'
+title: The Mysterious Sketch
+url: http://www.gutenberg.org/ebooks/36013
